@@ -1,0 +1,97 @@
+    /* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Poppins:wght@300&display=swap');
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+#bgIndex{
+	background-image: url('cooker-king-Z-PqFUdsSf0-unsplash 1.png');
+}	
+.container-fluid{
+	max-width: 100%;
+	
+}
+  .title {
+	font-family: 'Lora', serif;
+  }
+ .bod {
+	font-family: 'Poppins', sans-serif;
+ }
+
+ .abtbg{
+	background-color:#292B31;
+	background-image: url('pngegg (5) 1.png');
+ }
+ .navlog
+{
+	background-color: #1C1B20;
+}
+/* Testimonial Sections */
+
+
+
+#testimonials {
+	text-align: center;
+	color: white;
+	background-image: url("https://e7.pngegg.com/pngimages/895/699/png-clipart-blackboard-texture-black-background-black-textured.png");
+	margin: 0;
+	padding: 0;
+	max-width: 100%;
+	height: auto;
+	background-size: cover;
+	background-repeat: no-repeat;
+	
+  }
+  
+  .carousel-item {
+	  padding: 7% 15%;
+  }
+ 
+  .padding-column {
+	padding: 2% 3%;
+  }
+  .corol {
+	background-color: #F6F1E9;
+  }
+  
